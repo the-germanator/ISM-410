@@ -1,2 +1,2 @@
 # ISM-410
-Information Systems 480 with Todd Johnson
+Information Systems 410 with Todd Johnson
